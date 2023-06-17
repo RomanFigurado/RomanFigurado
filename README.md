@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RomanFigurado
 - 👀 I’m interested in Java, Machine Learning and Automation
-- 🌱 I’m currently learning OOP Java, python, CSS, MYSQL ETC
+- 🌱 I’m expert in Java, python, Spring, Spring boot, Jsp, hibernate, Angular, HTML-CSS-JS, testing, Agile.
 - 💞️ I’m looking to collaborate on Python advanced, basic java...
 - 📫 How to reach me email:(romananojan21@gmail.com)
 
