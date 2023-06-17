@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RomanFigurado
-- 👀 I’m interested in Programming,QA automation, web development
+- 👀 I’m interested in Java, Machine Learning and Automation
 - 🌱 I’m currently learning OOP Java, python, CSS, MYSQL ETC
 - 💞️ I’m looking to collaborate on Python advanced, basic java...
 - 📫 How to reach me email:(romananojan21@gmail.com)
